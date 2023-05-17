@@ -24,4 +24,5 @@ Samir Ahmed Talkal (st4703)
 ## Instructions to run the python files
 
 All the files have been ran on NYU HPC cluster, and graphs have been built using Google colab. 
-ALl the files can independently produce results, and can be seprately run in colab, each file contains appropraite code for reproducing all graphs provided in Results in Report. 
+
+All the files can independently produce results, and can be seprately run in colab, each file contains appropriate code for reproducing all graphs provided in Results in Report. 
