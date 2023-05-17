@@ -15,7 +15,7 @@ AlexNet, Inception_v3, Wide ResNet, Inception (tiny), MLP-512.
 ## Results: 
 All the obtained results are attached in Results section in the prepared report
 
-##Team Members:
+## Team Members:
 
 Rishabh Singh(rbs7261)
 Sarthak Chowdhary (sc9865)
